@@ -458,7 +458,7 @@ static apt_bool_t Ali_synth_stream_read(mpf_audio_stream_t *stream, mpf_frame_t 
 			completed = TRUE;
 		}
 
-	}else{
+	}else{//Fix the noise problem when TTS stops playing
 		memset(frame->codec_frame.buffer, 0, frame->codec_frame.size);
 	}
 
