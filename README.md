@@ -1,4 +1,4 @@
-# unimrcp-unimrcp-ali
+# unimrcp-ali
 unimrcp server with plugin Ali SDKCpp3.X .
 
 1、unimrcp-deps-1.6.0
