@@ -119,11 +119,11 @@
 	  <engine id="AliRecorder-1" name="alirecog" enable="true">
 		<max-channel-count>5</max-channel-count>
 		<!--设置 appKey 必填参数, 请参照官网申请-->
-		<param name="appKey" value="7FX9rueUsasjtXB7"/>
+		<param name="appKey" value=""/>
 		<!--设置 AccessKeyID 必填参数, 请参照官网申请-->
-		<param name="AccessKeyID" value="LTAI4Fhh3rRR7gq5MwxeEBiK"/>
+		<param name="AccessKeyID" value=""/>
 		<!--设置 AccessKeySecret 必填参数, 请参照官网申请-->
-		<param name="AccessKeySecret" value="vHvVeWKwh9yMwVi2ah0FJRGmYN8yMA"/>
+		<param name="AccessKeySecret" value=""/>
 		<!--设置音频数据编码格式字段Format 可选参数, 目前支持pcm|opus|opu. 默认是pcm-->
 		<param name="Format" value="pcm"/>
 		<!--设置用户自定义参数-->
@@ -159,11 +159,11 @@
 	  <engine id="Ali-Synth-1" name="alisynth" enable="true">
 		<max-channel-count>5</max-channel-count>
 		<!--设置 appKey 必填参数, 请参照官网申请-->
-		<param name="appKey" value="7FX9rueUsasjtXB7"/>
+		<param name="appKey" value=""/>
 		<!--设置 AccessKeyID 必填参数, 请参照官网申请-->
-		<param name="AccessKey" value="LTAI4Fhh3rRR7gq5MwxeEBiK"/>
+		<param name="AccessKey" value=""/>
 		<!--设置 AccessKeySecret 必填参数, 请参照官网申请-->
-		<param name="AccessSecret" value="vHvVeWKwh9yMwVi2ah0FJRGmYN8yMA"/>
+		<param name="AccessSecret" value=""/>
 		<!--设置 发音人 可选参数, 请参照官网sdk文档-->
 		<param name="voice" value="siqi"/>
 		<!--设置 返回的数据的格式  可选参数, 请参照官网sdk文档（其实代码已经写死pcm） -->
